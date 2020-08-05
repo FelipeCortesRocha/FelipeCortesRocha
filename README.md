@@ -3,7 +3,7 @@
 
 My name is Felipe Cortes from Brazil🇧🇷. I've been working as Full Stack Developer Developer since 2018 and currently I'm Developer at [Corebiz](https://www.corebiz.ag/). I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
 
-In my free time I like to play games 🎮, to watch movies and series 📺, to read books 📚, to listen to music 🎵, and aways that i can, talk with friends ou anybody and drink a good beer 🍺.
+In my free time I like to play games 🎮, to watch movies and series 📺, to read books 📚, to listen to music 🎵, and aways that i can, talk with friends or anybody and drink a good beer 🍺.
 
 Would you like to find me?
 
