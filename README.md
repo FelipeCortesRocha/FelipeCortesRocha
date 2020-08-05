@@ -1,5 +1,5 @@
 
-### Hey there! 😁🤘🏾👋🏾
+### Hey there! 😁:v:
 
 My name is Felipe Cortes from Brazil🇧🇷. I've been working as Full Stack Developer Developer since 2018 and currently I'm Developer at [Corebiz](https://www.corebiz.ag/). I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
 
