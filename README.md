@@ -1,9 +1,9 @@
 
 ### Hey there! 😁:v:
 
-My name is Felipe Cortes. I was born and live in Brazil. I've been working as Developer since 2018 and at this moment I'm a Sr. Frontend Developer at [Tivit](https://www.tivit.com/). I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
+I've been working as Full Stack Developer since 2018 and currently I'm a Fullstack Developer at Tivit. I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
 
-In my free time I like to play games 🎮, to watch movies and series 📺, to read books 📚, to listen to music 🎵, and aways that i can, talk with friends or anybody and drink a good beer 🍺.
+In my free time I like to play games 🎮, to watch movies and series 📺, to read books 📚, to listen to music 🎵, and of corse talk with friends and drink a good beer 🍺.
 
 Would you like to find me?
 
