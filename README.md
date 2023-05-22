@@ -1,7 +1,7 @@
 
 ### Hey there! 😁:v:
 
-I've been working as Full Stack Developer since 2018 and currently I'm a Fullstack Developer at Lambda3. I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
+I've been working as Full Stack Developer since 2018. I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
 
 In my free time I like to play games 🎮, to watch movies and series 📺, to read books 📚, to listen to music 🎵, and of corse talk with friends and drink a good beer 🍺.
 
