@@ -1,11 +1,13 @@
 
-### Hey there! 😁:v:
+### Hey there!
 
-I've been working as Full Stack Developer since 2018. I'm passionate about open source projects, coding in general and aways learn a lot about anything interesting.
+Software Engineer with 8+ years of experience, my main technologies are React.js, TypeScript, and Node.js. 
 
-In my free time I like to play games 🎮, to watch movies and series 📺, to read books 📚, to listen to music 🎵, and of corse talk with friends and drink a good beer 🍺.
+Experience on building scalable and maintainable applications. 
 
-Would you like to find me?
+Experienced in code reviews, best practices, and building scalable, maintainable and well-structured projects.
+
+Proficient in AWS, SQL's/NoSQL's, RESTFull and GraphQL.
 
 <ul
   <li>
