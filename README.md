@@ -1,17 +1,5 @@
+Hi, I'm Felipe Rocha. I graduated in Computer Science from Anhembi Morumbi University and am currently doing postgraduate degree studies in AI for developers at FIAP.
 
-### Hey there!
+I'm a Software Engineer with 8+ years of experience designing and scaling applications using Node.js, TypeScript, React, and AWS with a proven track record of migrating monoliths to microservices, building serverless architectures, and delivering high-availability systems. Strong expertise in REST APIs, event-driven systems, PostgreSQL, DynamoDB, and CI/CD pipelines.
 
-Software Engineer with 8+ years of experience, my main technologies are React.js, TypeScript, and Node.js. 
-
-Experience on building scalable and maintainable applications. 
-
-Experienced in code reviews, best practices, and building scalable, maintainable and well-structured projects.
-
-Proficient in AWS, SQL's/NoSQL's, RESTFull and GraphQL.
-
-<ul
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="16" alt="Linkedin"> 
-    <a href="https://www.linkedin.com/in/felipe-cortes-pinheiro-da-rocha-558791124" target="_blank" title="My LinkedIn">LinkedIn</a>
-  </li>
-</ul>
+Now I'm working as Senior Frontend Developer and continuously studying and improving myself to achieve my next goal that is to become a Software Architect.
